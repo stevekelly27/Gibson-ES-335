@@ -1,64 +1,75 @@
 /* Headings and logo */
 #logo {
-    float: left;
-    margin-left: 50px;
-    font-size: 300;
-    color: black;
-    
+  float: left;
+  margin-left: 50px;
+  font-size: 300;
+  color: black;
+  
 }
 li > a {
-  color: rgb(9 143 136);
-    text-decoration: none;
-    font-family: 'Lato', sans-serif;
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Teko', sans-serif;
-    font-size: 158%;
+color: rgb(9 143 136);
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Teko', sans-serif;
+  font-size: 158%;
 }
 .nav-bar {
-   
-    letter-spacing: 5px;
+ 
+  letter-spacing: 5px;
 }
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    color: #111;
-    
-  }
+  color: #111;
+  
+}
 
 .nav-bar li {
-    float: right;
-    list-style-type: none;
-    margin-right: 50px;
-    margin-top: 50px;
-   
-    
+  float: right;
+  list-style-type: none;
+  margin-right: 50px;
+  margin-top: 50px;
+ 
+  
 }
 body, html {
-    height: 125%;
-    margin: -20px;
-  }
+  height: 125%;
   
-  .bg {
-    /* The image used */
-    background-image: url("../images/es-335.jpg");
-  
-    /* Full height */
-    height: 50%;
-  
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
- /* Footer */
+}
 
- 
-  .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100px;
-    background-color: rgba(255, 0, 0, 0.103);
-    color: white;
-    text-align: center;
-  }
+.background-image1 {
+  /* The image used */
+  background-image: url("../images/es-335.jpg");
+
+  /* Full height */
+  height: 50%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* Footer */
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color: rgba(255, 0, 0, 0.103);
+  color: white;
+  text-align: center;
+}
+/* 
+.float-left > div {
+  float: left; 
+  margin-right: 15px;
+  height: 50%;
+  width: 100%;
+}
+.float-left > p {
+  float: right;
+  margin-left: 15px;
+} */
