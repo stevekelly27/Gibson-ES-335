@@ -3,21 +3,38 @@
     float: left;
     margin-left: 50px;
     font-size: 300;
+    color: black;
+    
 }
-#nav-bar {
-    font-size: 120%;
+li > a {
+  color: rgb(9 143 136);
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-size: 158%;
+}
+.nav-bar {
+   
     letter-spacing: 5px;
 }
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    color: #111;
+    
+  }
 
-#nav-bar li {
+.nav-bar li {
     float: right;
     list-style-type: none;
     margin-right: 50px;
     margin-top: 50px;
+   
+    
 }
 body, html {
     height: 125%;
-    margin: -15px;
+    margin: -20px;
   }
   
   .bg {
