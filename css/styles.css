@@ -15,7 +15,23 @@
     margin-right: 50px;
     margin-top: 50px;
 }
-
+body, html {
+    height: 125%;
+    margin: -15px;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("../images/es-335.jpg");
+  
+    /* Full height */
+    height: 50%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
  /* Footer */
 
  
