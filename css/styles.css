@@ -114,7 +114,7 @@ body {
 }
 
 tr {
-  border-bottom: 3px solid black;
+  border-bottom: 1px solid black;
 }
 
 .specs {
@@ -132,19 +132,30 @@ table {
   width: 100%;
   clear: both;
   column-count: 2;
-  column-gap: 0;
   }
  
+/* Gallery */
+
+.gallery {
+  clear: both;
+  line-height: 0;
+  column-count: 3;
+  column-gap: 0;
+}
+
+.gallery > img {
+  width: 100%;
+}
+
 
 /* Footer */
 
-
 .footer {
-  position: fixed;
+  /* position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 0; */
   width: 100%;
-  height: 50px;
+  height: 100px;
   background-color: rgba(163, 174, 179, 0.616);
   color: white;
   text-align: center;
