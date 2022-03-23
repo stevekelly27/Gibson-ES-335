@@ -82,13 +82,13 @@ body {
   font-size: 300%;
 }
 
-.history-1 img {
+.history-left img {
   height: 20%;
   width: 45%;
   float: left;
 }
 
-.history-2 img {
+.history-right img {
   height: 20%;
   width: 45%;
   float: right;
