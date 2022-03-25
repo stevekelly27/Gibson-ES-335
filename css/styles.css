@@ -20,6 +20,7 @@ body {
 .header {
   height: 150px;
   background-color: rgb(96, 99, 100);
+  border-bottom: 3px;
 }
 
 #logo img{
@@ -40,15 +41,15 @@ li > a {
 
 .main-header h1 {
   text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .main-header {
-  height: 50px;
-  width: auto;
-  font-size: 120%;
+  height: 120px;
+  font-size: 110%;
   margin-bottom: 30px;
   color: rgb(0, 0, 0);
-  font-family: 'Lato', sans-serif;
-  font-family: 'Oswald', sans-serif;
   font-family: 'Source Sans Pro', sans-serif;
   font-family: 'Teko', sans-serif;
 }
@@ -89,8 +90,6 @@ li a:hover {
 .history-header {
   text-align: center;
   font-size: 200%;
-  font-family: 'Lato', sans-serif;
-  font-family: 'Oswald', sans-serif;
   font-family: 'Source Sans Pro', sans-serif;
   font-family: 'Teko', sans-serif;
 }
@@ -130,6 +129,8 @@ li a:hover {
 
 .specs {
   width:60%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .even {
@@ -140,11 +141,11 @@ table {
   font-family: Arial, Helvetica, sans-serif;
   border-bottom: 1px solid black;
   width: 60%;
-  /* clear: both; */
   column-count: 2;
 }
 
 th {
+  line-height: 35px;
   margin-bottom: 20px;
   border-bottom: 1px solid black;
 }
@@ -192,6 +193,7 @@ td {
   height:200px;
   background-color: rgba(81, 87, 90, 0.616);
   box-sizing: border-box;
+  margin-top:50px
 }
 
 .footer {
@@ -200,8 +202,6 @@ td {
   background-color: rgb(96, 99, 100);
   color: #fff;
   margin: 0 auto;
-  font-family: 'Lato', sans-serif;
-  font-family: 'Oswald', sans-serif;
   font-family: 'Source Sans Pro', sans-serif;
   font-family: 'Teko', sans-serif;
 }
