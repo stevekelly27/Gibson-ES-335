@@ -1,4 +1,19 @@
+body, html {
+  height:auto;
+  max-width: 1800px;
+  margin: 0 auto;
+} 
+
+body {
+  background-color: white;
+  }
 /* Headings and logo */
+
+.header {
+  height: 150px;
+  background-color: rgba(81, 87, 90, 0.616);
+}
+
 #logo img{
   float: left;
   width: 250px;
@@ -19,14 +34,10 @@ color: rgb(9 143 136);
   text-align: center;
 }
 .main-header {
-  height: 10%;
+  height: 50px;
   width: auto;
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  user-select: none;
-  font-size: 150%;
+  font-size: 120%;
+  margin-bottom: 30px;
   color: rgb(0, 0, 0);
   font-family: 'Lato', sans-serif;
   font-family: 'Oswald', sans-serif;
@@ -58,16 +69,6 @@ p {
   font-size: 135%;
   
  }
-
-body, html {
-  height: 125%;
-
-  
-} 
-
-body {
-  background-color: white;
-}
 
 
 .background-image1 img{
@@ -104,6 +105,11 @@ body {
   float: right;
 }
 
+.content p {
+  line-height: 35px;
+}
+}
+
 /* specs */
 
 .left-row { 
@@ -130,7 +136,7 @@ tr:hover {
 } 
 
 td {
-  line-height:25px;
+  line-height:35px;
 }
 
 th {
@@ -180,9 +186,10 @@ table {
 
 .footer div {
   display: inline-block;
+  margin-left: 50px;
 }
 .footer a {
-  vertical-align: middle;
+  display:block;
   text-decoration: none;
   padding-left: 10px;
   margin-bottom: 10%;
@@ -195,7 +202,7 @@ table {
 
 .sign-up {
   float: right;
-  margin-right: 5%;
+  margin-right: 10px;
 }
 
 .button {
