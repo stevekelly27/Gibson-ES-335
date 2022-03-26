@@ -54,7 +54,7 @@ li a:hover {
 
 .nav-bar li {
   float: right;
-  list-style-type: none;
+  /* list-style-type: none; */
   margin-right: 50px;
   margin-top: 50px;
 }
@@ -83,11 +83,11 @@ li a:hover {
 
 /* Cover image */
 
-.cover-img {
+.main-image {
   height:450px;
   width:100%;
 }
-cover-img img {
+.main-image img {
   height: auto;
   width:100%;
   repeat: no-repeat;
@@ -292,6 +292,8 @@ td {
     }
 }
 
+/* For medium size screens */
+
 @media screen and (max-width:950px) {
   .header {
     height: 350px;
@@ -300,9 +302,26 @@ td {
   nav-bar li {
     display: block;
   }
+
+  .specs {
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
+/* For small to medium size screens */
+
 @media screen and (max-width: 800px) {
+
+  .header {
+    height: 400px;
+    width: 100%;
+  }
+  nav-bar li {
+    display: block;
+  }
+
   .main-header-home {
     height: 300px;
     width: 100%
@@ -328,13 +347,45 @@ td {
   }
 
   .sign-up {
-    text-align: center;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
+    display: inline;
   }
   .support .community {
     text-align: center;
     margin-left: 0 auto;
     margin-right: 0 auto;
+  }
+
+  .specs {
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+/* For mobile phones */
+@media screen and (max-width: 400px) {
+  .main-header-home {
+    height: 500px;
+    width: 100%
+  }
+
+  .main-header-home h2 {
+    width: 80%;
+    text-align: center;
+    font-size: 170%;
+    height:500px;
+    position :absolute;
+  }
+
+  .specs {
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .support .community {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
   }
 }
