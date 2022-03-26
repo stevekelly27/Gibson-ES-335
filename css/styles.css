@@ -54,7 +54,7 @@ li a:hover {
 
 .nav-bar li {
   float: right;
-  /* list-style-type: none; */
+  list-style-type: none;
   margin-right: 50px;
   margin-top: 50px;
 }
@@ -68,7 +68,7 @@ li a:hover {
   font-family: 'Teko', sans-serif;
 }
 
-.main-header-home h2 {
+.main-header-home h1 {
   margin-left:20%;
   max-width: 60%;
   text-align: center;
@@ -279,7 +279,7 @@ td {
       width: 100%;
       text-align: center;
     }
-    .main-header-home h2 {
+    .main-header-home h1 {
       width: 80%;
       text-align: center;
       font-size: 170%;
@@ -301,6 +301,18 @@ td {
   }
   nav-bar li {
     display: block;
+  }
+
+  .history-left img {
+    height: 50%;
+    width: 100%;
+    float: left;
+  }
+  
+  .history-right img {
+    height: 50%;
+    width: 100%;
+    float: right;
   }
 
   .specs {
@@ -327,12 +339,24 @@ td {
     width: 100%
   }
 
-  .main-header-home h2 {
+  .main-header-home h1 {
     width: 80%;
     text-align: center;
     font-size: 170%;
     height:300px;
     position :absolute;
+  }
+
+  .history-left img {
+    height: 50%;
+    width: 100%;
+    float: left;
+  }
+  
+  .history-right img {
+    height: 50%;
+    width: 100%;
+    float: right;
   }
 
   .gallery {
@@ -368,7 +392,7 @@ td {
     width: 100%
   }
 
-  .main-header-home h2 {
+  .main-header-home h1 {
     width: 80%;
     text-align: center;
     font-size: 170%;
