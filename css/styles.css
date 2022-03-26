@@ -79,18 +79,25 @@ li a:hover {
   font-family: 'Teko', sans-serif;
 }
 
-}
 
 /* Cover image */
 
 .main-image {
-  height:450px;
+  height:auto;
   width:100%;
 }
 .main-image img {
   height: auto;
   width:100%;
   repeat: no-repeat;
+}
+
+.content h1 {
+  width: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+  font-size: 200%;
 }
 
 /* History */
