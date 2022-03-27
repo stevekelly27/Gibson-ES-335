@@ -38,6 +38,8 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
   -The landing page includes a welcome message explaining that the site is about and who would like it. 
   -A large image of a Ebony ES-335 os the cover picture under the welcome message and gives a visual image that you are in the right place.
   
+  ![2991183E-7E8C-4C44-B02A-7ADC4E6CF487](https://user-images.githubusercontent.com/93382818/160299835-8ddb3e25-9591-40e1-a0a2-21faccd95ade.jpeg)
+  
   -History of the Gibson ES-335
   -The history section is broken up into four different sections.
   -Each article in this history section is devided into an image of the guitar in question, and a description of the history of that type of ES-335.
