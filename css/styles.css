@@ -15,7 +15,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
    }
 
-/* Headings and logo */
+/* Header and Logo */
 
 .header {
   height: 150px;
@@ -30,13 +30,12 @@ body {
   background-repeat: no-repeat;
 }
 
-/* Nav Bar */
+/* Nav-Bar */
 
 .nav-bar {
   display:flex;
   letter-spacing: 5px;
 }
-/* Change the link color to #111 (black) on hover */
 
 li > a {
   color: #fff;
@@ -60,7 +59,8 @@ li a:hover {
   text-align: right;
 }
 
-/* main header */
+/* Main Header */
+
 .main-header {
   height:65px;
   width:100%;
@@ -81,7 +81,7 @@ li a:hover {
 }
 
 
-/* Cover image */
+/* Cover Image */
 
 .main-image {
   height:auto;
@@ -90,8 +90,9 @@ li a:hover {
 .main-image img {
   height: auto;
   width:100%;
-  repeat: no-repeat;
 }
+
+/* History */
 
 .content h1 {
   width: 100%;
@@ -100,8 +101,6 @@ li a:hover {
   text-align: center;
   font-size: 200%;
 }
-
-/* History */
 
 .history-header {
   text-align: center;
@@ -133,7 +132,6 @@ li a:hover {
 
 .content p {
   line-height: 35px;
-}
 }
 
 /* specs */
@@ -201,7 +199,6 @@ td {
 .gallery > img {
   width: 100%;
 }
-
 
 /* Footer */
 
@@ -410,6 +407,7 @@ td {
   }
 }
 /* For mobile phones */
+
 @media screen and (max-width: 400px) {
   .main-header-home {
     height: 700px;
