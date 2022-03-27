@@ -44,6 +44,8 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
   -The history section is broken up into four different sections.
   -Each article in this history section is devided into an image of the guitar in question, and a description of the history of that type of ES-335.
   -When usuing small to medium size screens the image is placed above the text so you can see the guitar you are reading about. on larger screens it is either to the left ir the right of the text.
+  
+  ![AB5CB885-7270-4694-9ADE-E496613918A4](https://user-images.githubusercontent.com/93382818/160300219-09ace5e6-9a05-4a65-a1de-1fffd1da5536.jpeg)
 
  -Footer 
   -The footer is featured on all three pages and is the same on all pages making it easy to use. it contains three sections:
