@@ -52,6 +52,9 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
    -Community - This area has links to social media sites associated with the organisation encouraging the user to keep connected. It features a Gibson ES-335 Faceboook group, a Gibson ES-335 instagram page and it also features a link to a gibson ES-335 guitar forum.
    -Support - This area links to three areas in Gibsons website. They include a link to Customer Services, a link to serial Number FAQs and a link to the Repair and Restoration page.
    -Sign up - This area is where the user can sign up to a weekly ES-335 related newsletter so anyone can keep up to date. The sign up area consists of a label to the left of the email input and has a red button reading "sign up". The sign up sheet moves from the right of the page to under the support and community divs insted of being opposite to them. 
+   
+   ![49B0B617-0CE1-4820-9221-864915713C16_4_5005_c](https://user-images.githubusercontent.com/93382818/160300243-42f4c5ac-ad14-4bca-b0b0-ce0e54f86b13.jpeg)
+
 
  -Specifications Page
   -The specifications page is where the user will come to see what parts/materials make up the guitar. 
