@@ -60,6 +60,8 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
   -The specifications page is where the user will come to see what parts/materials make up the guitar. 
   -The text color is kept simple for easy readability. Also every second line is highlighted in grey and there is also a hover effect with a lighter grey for ease of readability.
   -All colors on the page were kept similar enough to prevent from distraction and to keep the look and feel similar.
+  
+  ![D94CFE0A-CC56-4313-A1CE-2CE8CD451207](https://user-images.githubusercontent.com/93382818/160300331-397b4556-6a07-4673-b516-2f7c5c7efe72.jpeg)
 
  -Gallery Page
   -
