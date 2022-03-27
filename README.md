@@ -69,6 +69,9 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
   -The gallery page consists of three columns of images of a raange of Gibson ES-335 guitars, ranging from vintage to signiture to brand new.
   -A media query is in place for medium screens to show two columns and foe small screens to show onw column.
   
+  ![F046E66C-CC65-43B2-BC86-B5CB63B5F85B](https://user-images.githubusercontent.com/93382818/160304349-e4cef65f-85fa-4e87-98ed-c60d817026aa.jpeg)
+  
+  
   
   
   
