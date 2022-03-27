@@ -412,7 +412,7 @@ td {
 }
 /* For mobile phones */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 375px) {
   .main-header-home {
     height: 700px;
     width: 100%
