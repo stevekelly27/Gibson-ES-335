@@ -414,7 +414,7 @@ td {
 
 @media screen and (max-width: 375px) {
   .main-header-home {
-    height: 700px;
+    height: 600px;
     width: 100%
   }
 
