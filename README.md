@@ -4,6 +4,10 @@ The Gibson ES-335 tribute website is a site dedicated to that specific guitar to
 The siteaims to target towards people who are either interested in learning about the guitar or people who are in the market for one, this site has all the information necessary information so a buyer can make an educated decision on which mokdel of ES-335 to buy.
 This site is linked to the Gibson.com customer services and FAQs in the so the buyer can explore more.
 
+
+![AB0564C5-80BF-48AA-BDB1-00BE2D375DB6](https://user-images.githubusercontent.com/93382818/160303350-5d9d9750-c353-4e2f-a409-2d18b2249201.jpeg)
+
+
 ## User Expierence (UX)
 
 ###User stories
