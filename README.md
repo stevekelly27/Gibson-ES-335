@@ -95,7 +95,7 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
  
  -Tested gallery.html on the W3C HTML Validator and passed with no issues.
  
- 
+![4E48A5C6-E378-4CF2-A755-073A2A1C3CE3](https://user-images.githubusercontent.com/93382818/160364826-317f1569-b193-4bad-84f9-da0fdde702ae.jpeg) 
  
  -Tested style.css on the W3C CSS Validator and passed with no issues.
   
