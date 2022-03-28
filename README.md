@@ -99,6 +99,8 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
  
  -Tested style.css on the W3C CSS Validator and passed with no issues.
   
+  ![E01EC779-8089-4BC1-9F49-42419961629F](https://user-images.githubusercontent.com/93382818/160364970-47473a29-02be-4f51-9c96-14f16a82423e.jpeg)
+
   
   
   
