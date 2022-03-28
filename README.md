@@ -138,7 +138,7 @@ Navigation Bar
  -From the sourse section drop-down menu, select the Master Branch
  -Once the Master Branch is selected, the page will provide the link to the website.
 
-The live link can be found here - 
+The live link can be found here - https://stevekelly27.github.io/Gibson-ES-335/
 
 
 **Credits**
