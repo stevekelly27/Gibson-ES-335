@@ -130,5 +130,25 @@ Navigation Bar
  
   ![38A020A9-1F7C-4011-9421-F4CC47E3A25D](https://user-images.githubusercontent.com/93382818/160367750-7c6ddef5-1e4c-43ad-bcec-0c2525048aa8.jpeg)
   
+  
+**deployment**
+
+-The website is deployed to GitHub pages. To deploy you must:
+ -In the GitHub repository, go to the settings tab on the top right of screen.
+ -From the sourse section drop-down menu, select the Master Branch
+ -Once the Master Branch is selected, the page will provide the link to the website.
+
+The live link can be found here - 
+
+
+**Credits**
+
+-Content 
+ -The code to make the gallery was taken from the gallery page of the Lve Running Project.
+ -W3SSchools helped me design the header nav-bar with flex.
+ 
+-Media
+ -The fonts were imported from Google Fonts.
+ -The images were taken from Google Images. 
  
   
