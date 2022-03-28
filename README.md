@@ -91,6 +91,7 @@ Navigation Bar
   
    
 **Testing** 
+
 -http://ami.responsivedesign.is/ had been used to check how the site preforms on different screen sizes.All links work as expected. I also used it to create the first image in this README.md.
  
 -Tested on Google Chrome and preforms as intended.
@@ -105,7 +106,7 @@ Navigation Bar
  
 **Validator Testing** 
  
--tested index.html on the W3C HTML Validator and passed with no issues.
+-Tested index.html on the W3C HTML Validator and passed with no issues.
  
  
 ![C1CB0C70-151C-4786-B558-C4A2C0CAE7AD](https://user-images.githubusercontent.com/93382818/160364546-284fb12f-dd69-4034-b847-316c0b245d1e.jpeg)
@@ -135,9 +136,10 @@ Navigation Bar
  -When browsing in Safari, the gallery page dose not show the logo on the left of the header. It works on the Home page and the specification page but fails in the gallery.
  
  
+![3A59CA45-2718-4594-A8CE-DC8083C9835A](https://user-images.githubusercontent.com/93382818/160376359-74bc28b4-9527-4eaa-b7eb-5045bef264f4.jpeg)
   
   
-**deployment**
+**Deployment**
 
 -The website is deployed to GitHub pages. To deploy you must:
 
