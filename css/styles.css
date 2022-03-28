@@ -355,7 +355,7 @@ td {
   .nav-bar li {
     display: block;
     margin-left: 0;
-    margin-right: 15     0px;
+    margin-right: 15px;
     font-size: 80%;
   }
 
@@ -391,8 +391,8 @@ td {
   .footer-container {
     height: 450px;
     text-align: center;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .sign-up {
@@ -400,8 +400,8 @@ td {
   }
   .support .community {
     text-align: center;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .specs {
@@ -412,9 +412,14 @@ td {
 }
 /* For mobile phones */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 375px) {
+
+  .header {
+    width: 100%;
+  }
+
   .main-header-home {
-    height: 700px;
+    height: 600px;
     width: 100%
   }
 
@@ -440,11 +445,8 @@ td {
   .nav-bar {
     flex-direction: column;
     margin-left: 0;
-    margin-right:0 auto;
+    margin-right:0;
     text-align: left;
   }
 
-  .logo {
-    position:relative;
-  }
 }
