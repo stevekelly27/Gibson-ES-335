@@ -10,8 +10,6 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
 
 ## User Expierence (UX)
 
-###User stories
-
  -First Time Visitor Goals
  
   -As a first time visitor, I want to easily understand the main purpose of the site and learn about the guitar.
@@ -71,6 +69,29 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
   
   ![F046E66C-CC65-43B2-BC86-B5CB63B5F85B](https://user-images.githubusercontent.com/93382818/160304349-e4cef65f-85fa-4e87-98ed-c60d817026aa.jpeg)
   
+  
+  ##Technologys Used  
+   -HTML5
+   -CSS3
+   
+##Testing 
+ -http://ami.responsivedesign.is/ had been used to check how the site preforms on different screen sizes.All links work as expected. I also used it to create the first image in this README.md.
+ -tested on Google Chrome and preforms as intended.
+ -Tested on Safari and preforms as expected.
+ -tested on Mozilla Firefox and preforms as expected.
+ -tested on iPhone 13 pro and preforms as expected.
+ 
+ -tested index.html on the W3C HTML Validator and passed with no issues.
+ 
+ 
+ -Tested specs.html on the W3C HTML Validator and passed with no issues.
+ 
+ 
+ -Tested gallery.html on the W3C HTML Validator and passed with no issues.
+ 
+ 
+ 
+ -Tested style.css on the W3C CSS Validator and passed with no issues.
   
   
   
