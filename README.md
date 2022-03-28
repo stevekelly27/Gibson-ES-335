@@ -90,6 +90,9 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
  -Tested specs.html on the W3C HTML Validator and passed with no issues.
  
  
+![78AA9E8C-F6CE-4FAA-B7B2-3024C70D71B7](https://user-images.githubusercontent.com/93382818/160364704-4af8ef01-cc73-4a3a-b87e-2d1321539b09.jpeg)
+
+ 
  -Tested gallery.html on the W3C HTML Validator and passed with no issues.
  
  
