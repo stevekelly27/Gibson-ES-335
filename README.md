@@ -130,6 +130,12 @@ Navigation Bar
  
   ![38A020A9-1F7C-4011-9421-F4CC47E3A25D](https://user-images.githubusercontent.com/93382818/160367750-7c6ddef5-1e4c-43ad-bcec-0c2525048aa8.jpeg)
   
+**Unfixed bugs 
+ 
+ -When browsing in Safari, the gallery page dose not show the logo on the left of the header. It works on the Home page and the specification page but fails in the gallery.
+ 
+ 
+  
   
 **deployment**
 
