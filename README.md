@@ -43,7 +43,7 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
   History of the Gibson ES-335
   -The history section is broken up into four different sections.
   -Each article in this history section is devided into an image of the guitar in question, and a description of the history of that type of ES-335.
-  -When usuing small to medium size screens the image is placed above the text so you can see the guitar you are reading about. on larger screens it is either to the left ir the right of the text.
+  -When usuing small to medium size screens the image is placed above the text so you can see the guitar you are reading about. on larger screens it is    either to the left ir the right of the text.
   
   ![AB5CB885-7270-4694-9ADE-E496613918A4](https://user-images.githubusercontent.com/93382818/160300219-09ace5e6-9a05-4a65-a1de-1fffd1da5536.jpeg)
 
@@ -76,10 +76,18 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
    
 ##Testing 
  -http://ami.responsivedesign.is/ had been used to check how the site preforms on different screen sizes.All links work as expected. I also used it to create the first image in this README.md.
- -tested on Google Chrome and preforms as intended.
+ 
+ -Tested on Google Chrome and preforms as intended.
+ 
  -Tested on Safari and preforms as expected.
+ 
  -tested on Mozilla Firefox and preforms as expected.
+ 
  -tested on iPhone 13 pro and preforms as expected.
+ 
+ -Tested on multiple screens using the devtools device toolbar.
+ 
+ ##Validator Testing 
  
  -tested index.html on the W3C HTML Validator and passed with no issues.
  
@@ -87,7 +95,7 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
 ![C1CB0C70-151C-4786-B558-C4A2C0CAE7AD](https://user-images.githubusercontent.com/93382818/160364546-284fb12f-dd69-4034-b847-316c0b245d1e.jpeg)
 
  
- -Tested specs.html on the W3C HTML Validator and passed with no issues.
+ -Tested specs.html on the W3C HTML Validator and 
  
  
 ![78AA9E8C-F6CE-4FAA-B7B2-3024C70D71B7](https://user-images.githubusercontent.com/93382818/160364704-4af8ef01-cc73-4a3a-b87e-2d1321539b09.jpeg)
@@ -101,6 +109,10 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
   
   ![E01EC779-8089-4BC1-9F49-42419961629F](https://user-images.githubusercontent.com/93382818/160364970-47473a29-02be-4f51-9c96-14f16a82423e.jpeg)
 
+ -I confirmed that the fonts and colors used in the project are easy to read and accessable by running it through lighthouse.
+ 
+ 
   
   
+ 
   
