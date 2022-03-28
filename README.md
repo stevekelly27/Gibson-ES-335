@@ -84,6 +84,9 @@ This site is linked to the Gibson.com customer services and FAQs in the so the b
  -tested index.html on the W3C HTML Validator and passed with no issues.
  
  
+![C1CB0C70-151C-4786-B558-C4A2C0CAE7AD](https://user-images.githubusercontent.com/93382818/160364546-284fb12f-dd69-4034-b847-316c0b245d1e.jpeg)
+
+ 
  -Tested specs.html on the W3C HTML Validator and passed with no issues.
  
  
