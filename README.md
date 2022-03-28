@@ -134,8 +134,11 @@ Navigation Bar
 **deployment**
 
 -The website is deployed to GitHub pages. To deploy you must:
+
  -In the GitHub repository, go to the settings tab on the top right of screen.
+ 
  -From the sourse section drop-down menu, select the Master Branch
+ 
  -Once the Master Branch is selected, the page will provide the link to the website.
 
 The live link can be found here - https://stevekelly27.github.io/Gibson-ES-335/
@@ -144,11 +147,16 @@ The live link can be found here - https://stevekelly27.github.io/Gibson-ES-335/
 **Credits**
 
 -Content 
+
  -The code to make the gallery was taken from the gallery page of the Lve Running Project.
+ 
  -W3SSchools helped me design the header nav-bar with flex.
  
 -Media
+
  -The fonts were imported from Google Fonts.
+ 
  -The images were taken from Google Images. 
+ 
  
   
